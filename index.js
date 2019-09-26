@@ -8,7 +8,7 @@ if (loveScore > 70){
 alert("Your love score is " + loveScore + "%" + " You love each other like Kanye loves Kanye");
 }
 
-if (loveScore > 30 && <= 70){
+if (loveScore > 30 && loveScore <= 70){
 alert("Your love score is " + loveScore + "%");
 }
 
